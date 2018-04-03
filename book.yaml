@@ -1,0 +1,7 @@
+name: ArDrawing with Playground
+identifier: com.alexvassini.ardrawing
+cover: cover.jpeg # Optional
+chapters:
+  - name: ArDrawingwithPlayground
+    edge_to_edge_live_view: true # defaults to true
+    live_view_mode: "VisibleByDefault" # defaults to "HiddenByDefault"
